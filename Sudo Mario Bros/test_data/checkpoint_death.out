@@ -1,0 +1,52 @@
+Please enter the name of the level file (e.g. level1.txt): checkpoint_monster.txt
+Score: 0
+*  ^  @ I
+#########
+Please enter an action (enter '?' for help): r
+Score: 0
+ * ^  @ I
+#########
+Please enter an action (enter '?' for help): r
+Score: 0
+  *^  @ I
+#########
+Please enter an action (enter '?' for help): r
+Score: 0
+   *  @ I
+#########
+Please enter an action (enter '?' for help): r
+Score: 0
+    * @ I
+#########
+Please enter an action (enter '?' for help): r
+Score: 0
+     *@ I
+#########
+Please enter an action (enter '?' for help): r
+Hit a monster!
+Score: 0
+   *  @ I
+#########
+Please enter an action (enter '?' for help): r
+Score: 0
+    * @ I
+#########
+Please enter an action (enter '?' for help): r
+Score: 0
+     *@ I
+#########
+Please enter an action (enter '?' for help): a
+Attacking the monster on your right!
+Score: 0
+     *  I
+#########
+Please enter an action (enter '?' for help): r
+Score: 0
+      * I
+#########
+Please enter an action (enter '?' for help): r
+Score: 0
+       *I
+#########
+Please enter an action (enter '?' for help): r
+Congratulations! You finished the level

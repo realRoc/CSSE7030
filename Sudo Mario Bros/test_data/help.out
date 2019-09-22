@@ -1,0 +1,16 @@
+Please enter the name of the level file (e.g. level1.txt): short.txt
+Score: 0
+*I
+##
+Please enter an action (enter '?' for help): ?
+? - Help.
+r - Move right.
+l - Move left.
+a - Attack a monster immediately left or right of the player
+n - Reset to the last checkpoint.
+q - Quit.
+Score: 0
+*I
+##
+Please enter an action (enter '?' for help): r
+Congratulations! You finished the level

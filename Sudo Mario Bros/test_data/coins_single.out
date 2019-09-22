@@ -1,0 +1,14 @@
+Please enter the name of the level file (e.g. level1.txt): coins_single.txt
+Score: 0
+*$ I
+####
+Please enter an action (enter '?' for help): r
+Score: 1
+ * I
+####
+Please enter an action (enter '?' for help): r
+Score: 1
+  *I
+####
+Please enter an action (enter '?' for help): r
+Congratulations! You finished the level

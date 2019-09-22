@@ -1,0 +1,315 @@
+Please enter the name of the level file (e.g. level1.txt): level1.txt
+Score: 0
+                                     
+                             $       
+           @               ####      
+          ###             ######     
+*       #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+           @               ####      
+          ###             ######     
+ *      #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+           @               ####      
+          ###             ######     
+  *     #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+           @               ####      
+          ###             ######     
+   *    #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+           @               ####      
+          ###             ######     
+    *   #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+           @               ####      
+          ###             ######     
+     *  #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+           @               ####      
+          ###             ######     
+      * #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+           @               ####      
+          ###             ######     
+       *#######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+           @               ####      
+        * ###             ######     
+        #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+           @               ####      
+         *###             ######     
+        #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+          *@               ####      
+          ###             ######     
+        #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): l
+Score: 0
+                                     
+                             $       
+           @               ####      
+         *###             ######     
+        #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+          *@               ####      
+          ###             ######     
+        #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): a
+Attacking the monster on your right!
+Score: 0
+                                     
+                             $       
+          *                ####      
+          ###             ######     
+        #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+           *               ####      
+          ###             ######     
+        #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+            *              ####      
+          ###             ######     
+        #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+                           ####      
+          ###*            ######     
+        #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+                           ####      
+          ### *           ######     
+        #######  $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+                           ####      
+          ###             ######     
+        #######* $    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 0
+                                     
+                             $       
+                           ####      
+          ###             ######     
+        ####### *$    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 1
+                                     
+                             $       
+                           ####      
+          ###             ######     
+        #######  *    $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 1
+                                     
+                             $       
+                           ####      
+          ###             ######     
+        #######   *   $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 1
+                                     
+                             $       
+                           ####      
+          ###             ######     
+        #######    *  $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 1
+                                     
+                             $       
+                           ####      
+          ###             ######     
+        #######     * $  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 1
+                                     
+                             $       
+                           ####      
+          ###             ######     
+        #######      *$  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 2
+                                     
+                             $       
+                           ####      
+          ###             ######     
+        #######       *  ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 2
+                                     
+                             $       
+                           ####      
+          ###             ######     
+        #######        * ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 2
+                                     
+                             $       
+                           ####      
+          ###             ######     
+        #######         *########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 2
+                                     
+                             $       
+                           ####      
+          ###            *######     
+        #######          ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 2
+                                     
+                             $       
+                          *####      
+          ###             ######     
+        #######          ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 2
+                                     
+                           * $       
+                           ####      
+          ###             ######     
+        #######          ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 2
+                                     
+                            *$       
+                           ####      
+          ###             ######     
+        #######          ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 3
+                                     
+                             *       
+                           ####      
+          ###             ######     
+        #######          ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 3
+                                     
+                              *      
+                           ####      
+          ###             ######     
+        #######          ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 3
+                                     
+                                     
+                           ####*     
+          ###             ######     
+        #######          ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 3
+                                     
+                                     
+                           ####      
+          ###             ######*    
+        #######          ########   I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 3
+                                     
+                                     
+                           ####      
+          ###             ######     
+        #######          ########*  I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 3
+                                     
+                                     
+                           ####      
+          ###             ######     
+        #######          ######## * I
+#####################################
+Please enter an action (enter '?' for help): r
+Score: 3
+                                     
+                                     
+                           ####      
+          ###             ######     
+        #######          ########  *I
+#####################################
+Please enter an action (enter '?' for help): r
+Congratulations! You finished the level
