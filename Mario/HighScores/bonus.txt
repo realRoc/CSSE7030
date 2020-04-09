@@ -1,0 +1,4 @@
+==bonus.txt==
+aa:42
+==bonus.txt==
+dddadada:33
