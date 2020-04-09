@@ -7,12 +7,12 @@ There are three assignments:
 
   1. Sudo Mario Bros: Run a1.py to play
   2. Sleeping Coder: Run gui.py to play
-  3. TBD
+  3. Mario Games: Run with valid config (default: config.txt)
   
 For more details about those projects, please check the pdf.
 
 If you are a UQ student, please do not copy the code for your assignment.
 
-Finally, thank all the totors for their great help with my learning in Python.
+Finally, great thanks to all the tutors for their great help with my learning in Python.
 
 Yupeng Wu
